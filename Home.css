@@ -1,0 +1,29 @@
+
+body{
+
+border: 0cm;
+margin: 0%;
+}
+
+
+
+/* Setting the color of the body to offwhite to create a background effect */
+
+.Background {
+
+background-color: rgb(237, 235, 235);
+height: 940px;
+width: 100%;
+border: 0cm;
+}
+
+
+
+/* CSS for top nav bar of home page */
+
+.Navbar {
+    background-color: rgb(171, 15, 15);
+    height: 10%;
+    width: 100%;
+
+}
